@@ -49,7 +49,7 @@ if(!isset($_SESSION["user_sesije"])){
 				<div id="page-inner">
 					<div class="row">
 						<div class="col-md-12">
-							<h2>Primjer stranice</h2>   
+							<h2>Pristigli E-mail</h2>   
 						</div>
 					</div>              
 					<hr />
@@ -67,4 +67,4 @@ if(!isset($_SESSION["user_sesije"])){
 </html>
 <?php  
 }  
-?> 
+?>
